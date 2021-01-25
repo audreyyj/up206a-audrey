@@ -1,5 +1,5 @@
-# Week 3 Reading Response Assignments
-## "OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks"
+# Week 3 Assignment: Reading Response 
+### "OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks"
 ###### Geoff Boeing 
 
 For the purposes of this class, I am quite grateful that Mr. Boeing created this freely available street network analysis tool as it is exactly relevant to our group project research question: What can LA's developing transit system learn from that of Seoul? 
